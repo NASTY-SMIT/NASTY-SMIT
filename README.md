@@ -9,8 +9,9 @@ I am studying programming for the second year. I started with a basic html study
 *   🌍  I'm based in Barnaul
 *   ✉️  You can contact me at [nasty.smit.2004@mail.ru](mailto:nasty.smit.2004@mail.ru)
 *   🧠  I'm learning Python 3
-<a href="https://www.github.com/NASTY-SMIT" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/NASTY-SMIT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+###GitHub Profile Trophy
+https://github-profile-trophy.vercel.app/?NASTY-SMIT=ryo-ma&no-bg=true
 
 ### Skills 
 <p align="left">
