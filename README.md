@@ -10,8 +10,8 @@ I am studying programming for the second year. I started with a basic html study
 *   ✉️  You can contact me at [nasty.smit.2004@mail.ru](mailto:nasty.smit.2004@mail.ru)
 *   🧠  I'm learning Python 3
 
-###GitHub Profile Trophy
-https://github-profile-trophy.vercel.app/?NASTY-SMIT=ryo-ma&no-bg=true
+### GitHub Profile Trophy
+<a href="https://github-profile-trophy.vercel.app/?NASTY-SMIT=ryo-ma&no-bg=true">
 
 ### Skills 
 <p align="left">
