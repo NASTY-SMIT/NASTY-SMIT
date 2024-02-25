@@ -15,4 +15,4 @@ At the moment, I am finishing my college studies with a degree in Information Sy
 ![](https://github-readme-stats.vercel.app/api?username=NASTY-SMIT&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NASTY-SMIT&theme=dracula&hide_border=false)<br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=NASTY-SMIT&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NASTY-SMIT&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
