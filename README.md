@@ -18,11 +18,11 @@ In my free time I exercise at a fitness club, paint pictures and sometimes trave
 </h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-  <img src="./python.png" alt="Python" width="60" height="60"/>
-  <img src="./scrapy1.png" alt="Scrapy" width="90" height="55"/>
-  <img src="./selenium.png" alt="Selenium" width="55" height="55"/>
-  <img src="./playwright" alt="Playwright" width="55" height="55"/>
-  <img src="./curl.png" alt="Curl" width="110" height="55"/>
-  <img src="./camoufox.jpeg" alt="Camoufox" width="55" height="55"/>
+  <img src="./python.png" alt="Python" width="100" height="100"/>
+  <img src="./scrapy1.png" alt="Scrapy" width="180" height="100"/>
+  <img src="./selenium.png" alt="Selenium" width="100" height="100"/>
+  <img src="./playwright" alt="Playwright" width="100" height="100"/>
+  <img src="./curl.png" alt="Curl" width="200" height="100"/>
+  <img src="./camoufox.jpeg" alt="Camoufox" width="100" height="100"/>
 </p>
 
