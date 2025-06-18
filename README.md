@@ -21,7 +21,7 @@ In my free time I exercise at a fitness club, paint pictures and sometimes trave
   <img src="./python.png" alt="vscode" width="45" height="45"/>
   <img src="./scrapy.png" alt="intellij" width="45" height="45"/>
   <img src="./selenium.png" alt="git" width="45" height="45"/>
-  <img src="./playwright.png" alt="figma" width="45" height="45"/>
+  <img src="./playwright" alt="figma" width="45" height="45"/>
 </p>
 
 <p align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 300px; margin: auto;">
