@@ -26,3 +26,6 @@ In my free time I exercise at a fitness club, paint pictures and sometimes trave
   <img src="./camoufox.jpeg" alt="Camoufox" width="100" height="100"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FFB6C1,AAAAAA" />
+</p>
