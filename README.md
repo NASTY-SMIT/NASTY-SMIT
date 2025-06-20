@@ -24,28 +24,28 @@ In my free time I exercise at a fitness club, paint pictures and sometimes trave
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./python.png" width="100" height="100" alt="Python"/><br/>
-      <sub><b style="color: #4C424A;">Python</b></sub>
+      <img src="./python.png" width="130" height="130" alt="Python"/><br/>
+      <sub><b style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Python</b></sub>
     </td>
     <td align="center">
-      <img src="./scrapy.png" width="100" height="100" alt="Scrapy"/><br/>
-      <sub><b style="color: #4C424A;">Scrapy</b></sub>
+      <img src="./scrapy.png" width="130" height="130" alt="Scrapy"/><br/>
+      <sub><b style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Scrapy</b></sub>
     </td>
     <td align="center">
-      <img src="./selenium.png" width="100" height="100" alt="Selenium"/><br/>
-      <sub><b style="color: #4C424A;">Selenium</b></sub>
+      <img src="./selenium.png" width="130" height="130" alt="Selenium"/><br/>
+      <sub><b style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Selenium</b></sub>
     </td>
     <td align="center">
-      <img src="./playwright.png" width="100" height="100" alt="Playwright"/><br/>
-      <sub><b style="color: #4C424A;">Playwright</b></sub>
+      <img src="./playwright.png" width="130" height="130" alt="Playwright"/><br/>
+      <sub><b style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Playwright</b></sub>
     </td>
     <td align="center">
-      <img src="./curl.png" width="100" height="100" alt="curl_cffi"/><br/>
-      <sub><b style="color: #4C424A;">curl_cffi</b></sub>
+      <img src="./curl.png" width="130" height="130" alt="curl_cffi"/><br/>
+      <sub><b style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">curl_cffi</b></sub>
     </td>
     <td align="center">
-      <img src="./camoufox.png" width="100" height="100" alt="Camoufox"/><br/>
-      <sub><b style="color: #4C424A;">Camoufox</b></sub>
+      <img src="./camoufox.png" width="130" height="130" alt="Camoufox"/><br/>
+      <sub><b style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Camoufox</b></sub>
     </td>
   </tr>
 </table>
