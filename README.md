@@ -12,19 +12,44 @@ I am 21 years old. I am a **middle Python developer at ru.shopping**. I parse Eu
 
 In my free time I exercise at a fitness club, paint pictures and sometimes travel with friends.
 
-<h2 align="center" style="color: #10B981;">
-  <img src="https://cdn-icons-png.flaticon.com/512/126/126472.png" alt="tools" width="28" height="28" style="vertical-align: middle; margin-right: 8px; filter: invert(49%) sepia(96%) saturate(726%) hue-rotate(112deg) brightness(90%) contrast(88%);">
+<h2 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/126/126472.png" alt="tools" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
   Skills
 </h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-  <img src="./python.png" alt="Python" width="100" height="100"/>
-  <img src="./scrapy.png" alt="Scrapy" width="100" height="100"/>
-  <img src="./selenium.png" alt="Selenium" width="100" height="100"/>
-  <img src="./playwright.png" alt="Playwright" width="100" height="100"/>
-  <img src="./curl.png" alt="Curl" width="100" height="100"/>
-  <img src="./camoufox.png" alt="Camoufox" width="100" height="100"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+
+  <div style="text-align: center;">
+    <img src="./python.png" alt="Python" width="100" height="100"><br/>
+    <span style="color: #4C424A; font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 16px;">Python</span>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="./scrapy.png" alt="Scrapy" width="100" height="100"><br/>
+    <span style="color: #4C424A; font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 16px;">Scrapy</span>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="./selenium.png" alt="Selenium" width="100" height="100"><br/>
+    <span style="color: #4C424A; font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 16px;">Selenium</span>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="./playwright.png" alt="Playwright" width="100" height="100"><br/>
+    <span style="color: #4C424A; font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 16px;">Playwright</span>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="./curl.png" alt="Curl" width="100" height="100"><br/>
+    <span style="color: #4C424A; font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 16px;">curl_cffi</span>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="./camoufox.png" alt="Camoufox" width="100" height="100"><br/>
+    <span style="color: #4C424A; font-family: 'Nunito', sans-serif; font-weight: 600; font-size: 16px;">Camoufox</span>
+  </div>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FFB6C1,AAAAAA" />
