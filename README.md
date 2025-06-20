@@ -19,11 +19,11 @@ In my free time I exercise at a fitness club, paint pictures and sometimes trave
 
 <p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
   <img src="./python.png" alt="Python" width="100" height="100"/>
-  <img src="./scrapy1.png" alt="Scrapy" width="180" height="100"/>
+  <img src="./scrapy.png" alt="Scrapy" width="100" height="100"/>
   <img src="./selenium.png" alt="Selenium" width="100" height="100"/>
-  <img src="./playwright" alt="Playwright" width="100" height="100"/>
-  <img src="./curl.png" alt="Curl" width="200" height="100"/>
-  <img src="./camoufox.jpeg" alt="Camoufox" width="100" height="100"/>
+  <img src="./playwright.png" alt="Playwright" width="100" height="100"/>
+  <img src="./curl.png" alt="Curl" width="100" height="100"/>
+  <img src="./camoufox.png" alt="Camoufox" width="100" height="100"/>
 </p>
 
 <p align="center">
