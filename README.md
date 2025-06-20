@@ -51,5 +51,5 @@ In my free time I exercise at a fitness club, paint pictures and sometimes trave
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=FFB6C1,EEEEEE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F1CECF&section=footer&fontAlign=50" />
 </p>
