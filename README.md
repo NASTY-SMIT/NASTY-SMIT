@@ -24,33 +24,45 @@ In my free time I exercise at a fitness club, paint pictures and sometimes trave
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
 
   <div style="text-align: center;">
-    <img src="./python.png" alt="Python" width="100" height="100"><br/>
-    <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Python</span>
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img src="./python.png" alt="Python" width="40" height="40">
+      <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Python</span>
+    </span>
   </div>
 
   <div style="text-align: center;">
-    <img src="./scrapy.png" alt="Scrapy" width="100" height="100"><br/>
-    <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Scrapy</span>
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img src="./scrapy.png" alt="Scrapy" width="40" height="40">
+      <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Scrapy</span>
+    </span>
   </div>
 
   <div style="text-align: center;">
-    <img src="./selenium.png" alt="Selenium" width="100" height="100"><br/>
-    <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Selenium</span>
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img src="./selenium.png" alt="Selenium" width="40" height="40">
+      <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Selenium</span>
+    </span>
   </div>
 
   <div style="text-align: center;">
-    <img src="./playwright.png" alt="Playwright" width="100" height="100"><br/>
-    <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Playwright</span>
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img src="./playwright.png" alt="Playwright" width="40" height="40">
+      <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Playwright</span>
+    </span>
   </div>
 
   <div style="text-align: center;">
-    <img src="./curl.png" alt="Curl" width="100" height="100"><br/>
-    <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">curl_cffi</span>
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img src="./curl.png" alt="Curl" width="40" height="40">
+      <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">curl_cffi</span>
+    </span>
   </div>
 
   <div style="text-align: center;">
-    <img src="./camoufox.png" alt="Camoufox" width="100" height="100"><br/>
-    <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Camoufox</span>
+    <span style="display: inline-flex; align-items: center; gap: 8px;">
+      <img src="./camoufox.png" alt="Camoufox" width="40" height="40">
+      <span style="font-family: 'Quicksand', sans-serif; font-weight: 600; color: #4C424A; font-size: 18px;">Camoufox</span>
+    </span>
   </div>
 
 </div>
